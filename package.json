@@ -16,5 +16,12 @@
     "url": "https://github.com/Jaireua/crud-nodejs-mysql/issues"
   },
   "homepage": "https://github.com/Jaireua/crud-nodejs-mysql#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "express-myconnection": "^1.0.4",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1"
+  }
 }
